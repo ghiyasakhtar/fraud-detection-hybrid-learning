@@ -36,7 +36,7 @@ Proyek ini bertujuan mengembangkan sistem deteksi kecurangan (fraud) pada transa
 
 ## Struktur Proyek
 ```
-
+fraud-detection-hybrid-learning/
 ├── notebook_clustering.ipynb # Notebook untuk proses K-Means dan pelabelan
 ├── notebook_classification.ipynb # Notebook untuk pelatihan KNN
 ├── decision_tree_model.h5 # Model lain yang diuji
