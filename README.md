@@ -51,6 +51,10 @@ Proyek ini bertujuan mengembangkan sistem deteksi kecurangan (fraud) pada transa
 ## Cara Menjalankan
 
 1. **Clone repository** atau buka di Google Colab
+    ```bash
+    git clone https://github.com/ghiyasakhtar/fraud-detection-hybrid-learning
+    cd fraud-detection-hybrid-learning
+    ```
 2. Pastikan dependensi telah terinstal:
    ```bash
    pip install -r requirements.txt
